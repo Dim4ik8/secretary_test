@@ -10,7 +10,7 @@ directories = {
     '3': []
 }
 
-
+#this is new function in this project
 def ret_name():
     num_doc = input('Введите номер документа: ')
     x = 0
